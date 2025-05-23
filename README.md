@@ -102,7 +102,7 @@ SAR images often represent intensity information and do not inherently contain c
 
 ## Author
 
-* **Udaya Venkata Pavan Gudala
+* Udaya Venkata Pavan Gudala
 
 ---
 
